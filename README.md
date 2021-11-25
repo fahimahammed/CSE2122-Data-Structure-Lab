@@ -18,6 +18,14 @@
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/Array/9-sparse-matrix-into-1D-Array.c">Sparse Matrix into 1D array</a></li>
 </ol>
 
-<h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/Array">Linked List</a></h2>
+<h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/LinkedList">Linked List</a></h2>
 
-
+<ol>
+<li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/1-create-linkedlist-store-value.c">Create Linked List</a></li>
+<li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/2-Traversing-maximum-minimum-total-average-sin-value-linkedlist.c">Traversing</a></li>
+<li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/3-inserting-byPosition-and-according-to-sorting.c">Inserting</a></li>
+<li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/4-deleting-item-from-list.c">Deleting</a></li>
+<li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/5-Sorting-in-linkedlist.c">Sorting</a></li>
+<li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/6-Searching-in-linkedlist.c">Searching</a></li>
+<li><a href=""></a></li>
+</ol>
