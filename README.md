@@ -16,6 +16,8 @@
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/Array/7-2D-array-into-linear-array.c">2D array into Linear Array</a></li>
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/Array/8-Matrix-add-mul-sub.c">Matrix (Addition/Subtraction/Multiplication)</a></li>
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/Array/9-sparse-matrix-into-1D-Array.c">Sparse Matrix into 1D array</a></li>
-
 </ol>
+
+<h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/Array">Linked List</a></h2>
+
 
