@@ -36,6 +36,6 @@
 
 
 <h5>Contributor</h5>
-<h6>Fahim Ahammed Firoz</h6>
-<p>Dept of CSE</p>
+<p>Fahim Ahammed Firoz</p>
+<h6>Dept of CSE</h6>
 <p>Imperial College of Engineering</p>
