@@ -27,5 +27,13 @@
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/4-deleting-item-from-list.c">Deleting</a></li>
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/5-Sorting-in-linkedlist.c">Sorting</a></li>
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/6-Searching-in-linkedlist.c">Searching</a></li>
-<li><a href=""></a></li>
 </ol>
+
+<h2><a href="">Stack, Queue, Recursion</a></h2>
+<h2><a href="">Tree</a></h2>
+<h2><a href="">Graph</a></h2>
+<li><a href=""></a></li>
+
+
+<h5>Contributor</h5>
+<h6>Fahim Ahammed Firoz</h6>
