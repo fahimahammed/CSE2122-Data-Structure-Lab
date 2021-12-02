@@ -36,6 +36,4 @@
 
 
 <h5>Contributor</h5>
--Fahim Ahammed Firoz
--Dept. of CSE
--Imperial College of Enginnering.
+<img src="https://fahim-firoz.web.app/static/media/profile.db9ac08d.png"/>
