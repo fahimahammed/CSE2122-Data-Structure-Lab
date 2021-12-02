@@ -36,4 +36,4 @@
 
 
 <h5>Contributor</h5>
-<img width="70" src="https://fahim-firoz.web.app/static/media/profile.db9ac08d.png"/>
+<img width="50" src="https://fahim-firoz.web.app/static/media/profile.db9ac08d.png"/>
