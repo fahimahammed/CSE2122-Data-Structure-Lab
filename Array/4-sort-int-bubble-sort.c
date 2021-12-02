@@ -1,5 +1,5 @@
 /* Sorting:
-Sort string data using Bubble sort.
+Sort int data using Bubble sort.
 */
 
 #include<stdio.h>

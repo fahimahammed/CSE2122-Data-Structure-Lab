@@ -14,7 +14,7 @@ int main()
     printf("Enter total number of element: ");
     scanf("%d", &n);
 
-    printf("Enter %d number of elements: ");
+    printf("Enter %d number of elements: ", n);
     for(int i=0; i<n; i++){
         scanf("%d", &array[i]);
     }

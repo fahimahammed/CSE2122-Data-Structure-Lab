@@ -11,7 +11,7 @@ int main()
     printf("\nEnter the number of column of sparse matrix: ");
     scanf("%d", &col);
 
-    printf("\nEnter your sparse matrix: ");
+    printf("\nEnter your sparse matrix: \n");
     for(i=0; i<row; i++){
         for(j=0; j<col; j++){
             scanf("%d", &A[i][j]);
