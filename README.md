@@ -30,10 +30,10 @@ Welcome to the CSE2122 Data Structure Lab repository! This collection of C progr
 <li><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/blob/main/LinkedList/6-Searching-in-linkedlist.c">Searching</a></li>
 </ol>
 
-<h2><a href="">Stack, Queue, Recursion</a></h2>
-<h2><a href="">Tree</a></h2>
-<h2><a href="">Graph</a></h2>
-<li><a href=""></a></li>
+<h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/Stack-Queue-Recursion">Stack, Queue, Recursion</a></h2>
+<h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/Tree">Tree</a></h2>
+<h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/Graph">Graph</a></h2>
+
 
 
 <h5>Contributor</h5>
