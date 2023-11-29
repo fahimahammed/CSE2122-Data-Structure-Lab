@@ -1,4 +1,5 @@
 # CSE2122: Data Structure Lab
+Welcome to the CSE2122 Data Structure Lab repository! This collection of C programs is designed to help you understand and implement fundamental data structures such as arrays and linked lists. The repository is organized into sections, each focusing on specific operations and functionalities.
 
 
 <h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/Array">Array</a></h2>
