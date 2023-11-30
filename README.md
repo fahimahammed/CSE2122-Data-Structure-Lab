@@ -35,7 +35,6 @@ Welcome to the CSE2122 Data Structure Lab repository! This collection of C progr
 <h2><a href="https://github.com/fahimahammed/CSE2122-Data-Structure-Lab/tree/main/Graph">Graph</a></h2>
 
 
-
-<h5>Contributor</h5>
+<h5>Contributor(s)</h5>
 <a href="https://fahim-firoz.web.app/"><img width="50" src="https://fahim-firoz.web.app/static/media/profile.db9ac08d.png"/></a>
 <p>FAHIM AHAMMED FIROZ</p>
